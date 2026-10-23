@@ -1,0 +1,12 @@
+.env
+.keys/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# local run logs
+*_log.txt
+.env.*
+!.env.example
